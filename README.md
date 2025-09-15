@@ -52,5 +52,6 @@ It analyzes anime ratings, genres, and user preferences to generate meaningful r
 - **User preferences:** Similar users rate anime alike, making collaborative filtering effective.  
 
 ---
-
+## Screenshot
+<img width="1420" height="676" alt="image" src="https://github.com/user-attachments/assets/70de63f0-6609-4c1f-9337-c7e0dccfc53f" />
 
