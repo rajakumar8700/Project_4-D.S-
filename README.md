@@ -1,7 +1,7 @@
 # 🎥 Anime Recommendation System
 
 This project builds an **Anime Recommendation System** using machine learning and data analysis on the [Anime Dataset](anime.csv).  
-It analyzes anime ratings, genres, and user preferences to generate meaningful recommendations.  
+It analyzes anime ratings, genres, and user preferences to generate Top 8 meaningful recommendations.  
 
 ---
 
