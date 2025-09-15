@@ -15,6 +15,18 @@ It analyzes anime ratings, genres, and user preferences to generate meaningful r
   - `episodes`: Number of episodes  
   - `rating`: Average user rating  
   - `members`: Number of community members engaged  
+---
+
+## Tools & Libraries
+
+- `pandas` – Data processing and manipulation  
+- `numpy` – Numerical operations  
+- `matplotlib` – Data visualization  
+- `seaborn` – Statistical data visualization  
+- `scikit-learn` – Machine learning (cosine similarity, recommendation models)  
+- `statistics` – Standard Python library 
+- `operator` – Standard Python library  
+- `warnings` – Standard Python library  
 
 ---
 
@@ -41,16 +53,4 @@ It analyzes anime ratings, genres, and user preferences to generate meaningful r
 
 ---
 
-## 🛠Tools & Libraries
-- Python   
-- Pandas, NumPy – Data processing  
-- Matplotlib, Seaborn – Visualization  
-- Scikit-learn – Machine learning (similarity, recommendation)  
 
----
-
-## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/anime-recommendation.git
-   cd anime-recommendation
