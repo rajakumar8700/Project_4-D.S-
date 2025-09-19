@@ -53,5 +53,7 @@ It analyzes anime ratings, genres, and user preferences to generate Top 8 meanin
 
 ---
 ## Screenshot
+<img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/7b06cce3-5198-4aa2-8480-78264d406086" />
+
 <img width="1420" height="676" alt="image" src="https://github.com/user-attachments/assets/70de63f0-6609-4c1f-9337-c7e0dccfc53f" />
 
